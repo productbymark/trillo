@@ -16,6 +16,7 @@
   "license": "ISC",
   "devDependencies": {
     "autoprefixer": "^7.1.4",
+    "braces": "^3.0.2",
     "concat": "^1.0.3",
     "live-server": "^1.2.1",
     "node-sass": "^4.14.1",
